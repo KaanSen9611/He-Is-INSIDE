@@ -1,4 +1,5 @@
-HE IS INSIDE
+**HE IS INSIDE**
+
 Something is inside the building. And you're not supposed to be here.
 
 🏚️ About the Game
